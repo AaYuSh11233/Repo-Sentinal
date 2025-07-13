@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pygithub
+python-dotenv
+requests
+pydantic
+python-multipart
