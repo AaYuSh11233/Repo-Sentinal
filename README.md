@@ -351,7 +351,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ✅ **User-Friendly**: Clear documentation and helpful error messages  
 
 **PR Sentinel** - The intelligent repository assistant that makes your development workflow smarter, safer, and more efficient! 🚀
-
----
-
-*Built with ❤️ using FastAPI, PyGithub, and Google Gemini AI*
